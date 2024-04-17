@@ -3,21 +3,21 @@ This project aims to perform sentiment analysis on social media data, specifical
 The dataset used for this analysis includes various attributes such as tweet ID, date, query flag, user, and tweet text.
 
 
-<b>Dataset Description<b>
-1.<b>ID</b>: The unique identifier of the tweet.<br>
-2.<b>Date</b>: The timestamp indicating when the tweet was posted.<br>
-3.<b>Flag</b>: The query associated with the tweet, or "NO_QUERY" if none.<br>
-4.<b>User</b>: The username of the Twitter user who posted the tweet.<br>
-5.<b>Text</b>: The actual content of the tweet.<br>
+<b>Dataset Description<b><br>
+1.ID: The unique identifier of the tweet.<br>
+2.Date: The timestamp indicating when the tweet was posted.<br>
+3.Flag: The query associated with the tweet, or "NO_QUERY" if none.<br>
+4.User: The username of the Twitter user who posted the tweet.<br>
+5.Text: The actual content of the tweet.<br>
 
 
 <b>Target</b>
-The target of the sentiment analysis is to determine the polarity of each tweet:
+The target of the sentiment analysis is to determine the polarity of each tweet:<br>
 0: Negative sentiment<br>
 2: Neutral sentiment<br>
 4: Positive sentiment<br>
 
 
-<b>The dataset used in this project is sourced from Twitter.</b>
+The dataset used in this project is sourced from Twitter.
 
-Author: akshitasinghh
+Author: akshita singh
