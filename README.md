@@ -11,7 +11,7 @@ The dataset used for this analysis includes various attributes such as tweet ID,
 5.Text: The actual content of the tweet.<br>
 
 
-<b>Target</b>
+<b>Target</b><br>
 The target of the sentiment analysis is to determine the polarity of each tweet:<br>
 0: Negative sentiment<br>
 2: Neutral sentiment<br>
